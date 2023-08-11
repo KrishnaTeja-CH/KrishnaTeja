@@ -16,6 +16,7 @@
 - 📫 How to reach me **chkrishnateja1996@gmail.com**
 
 - <a href = "[https://www.dropbox.com/scl/fi/mccgj5hpxcv5rt30iq2zj/Krishna-Teja-Chintala-Cheruvu_Resume.pdf?rlkey=92qrma5t0ush2m68ei11eh7z1&dl=0](https://www.dropbox.com/scl/fi/mccgj5hpxcv5rt30iq2zj/Krishna-Teja-Chintala-Cheruvu_Resume.pdf?rlkey=92qrma5t0ush2m68ei11eh7z1&dl=0)"> 📄 Know about my experiences </a> 
+- <p><a href="https://www.dropbox.com/scl/fi/mccgj5hpxcv5rt30iq2zj/Krishna-Teja-Chintala-Cheruvu_Resume.pdf?rlkey=92qrma5t0ush2m68ei11eh7z1&dl=0" target="_blank">📄 Know about my experiences </a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
