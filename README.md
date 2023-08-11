@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/itsmekt18" target="blank"><img src="https://img.shields.io/twitter/follow/itsmekt18?logo=twitter&style=for-the-badge" alt="itsmekt18" /></a> </p>
 
-- 🔭 I’m currently working on **Amazon Web Services**
+- 🔭 I’m currently working at  **Amazon Web Services**
 
 - 🌱 I’m currently learning **Swift and TypeScript Programming**
 
-- 🤝 I’m looking for help with **DevOps Engineering**
+- 🤝 I am seeking assistance in finding job opportunities for positions as a **Software Development Engineer**
 
 - 💬 Ask me about **Software Development Life Cycle (SDLC)**
 
 - 📫 How to reach me **chkrishnateja1996@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/mccgj5hpxcv5rt30iq2zj/Krishna-Teja-Chintala-Cheruvu_Resume.pdf?rlkey=92qrma5t0ush2m68ei11eh7z1&dl=0](https://www.dropbox.com/scl/fi/mccgj5hpxcv5rt30iq2zj/Krishna-Teja-Chintala-Cheruvu_Resume.pdf?rlkey=92qrma5t0ush2m68ei11eh7z1&dl=0)
+- <a href = "[https://www.dropbox.com/scl/fi/mccgj5hpxcv5rt30iq2zj/Krishna-Teja-Chintala-Cheruvu_Resume.pdf?rlkey=92qrma5t0ush2m68ei11eh7z1&dl=0](https://www.dropbox.com/scl/fi/mccgj5hpxcv5rt30iq2zj/Krishna-Teja-Chintala-Cheruvu_Resume.pdf?rlkey=92qrma5t0ush2m68ei11eh7z1&dl=0)"> 📄 Know about my experiences </a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
