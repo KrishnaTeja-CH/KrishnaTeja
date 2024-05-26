@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at  **Amazon Web Services**
 
-- 🌱 I’m currently learning **Swift and TypeScript Programming**
+- 🌱 I’m currently learning **TypeScript Programming**
 
 - 🤝 I am seeking assistance in finding job opportunities for positions as a **Software Development Engineer**
 
